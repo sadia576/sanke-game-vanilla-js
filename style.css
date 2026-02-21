@@ -9,22 +9,17 @@ body {
     background-color: #05482d;
 
 }
-
 h1 {
-    font-size: 40px;
+    font-size: 30px;
     color: #ffff;
-    text-decoration: underline;
-    margin-bottom: 10px;
+    font-weight: bold;    
 }
-
 h2 {
-    font-size: 20px;
+    font-size: 15px;
     color: #ffff;
-
 }
-
 #restartBtn {
-    margin: 12px;
+    margin: 10px;
     padding: 12px;
     color: white;
     background-color: #079e62;
